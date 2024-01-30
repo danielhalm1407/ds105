@@ -1,0 +1,12 @@
+[?2004h]0;MINGW64:/c/Users/danie/OneDrive - London School of Economics/DS105 W/ds105/excercises
+[32mdanie@Daniel [35mMINGW64 [33m~/OneDrive - London School of Economics/DS105 W/ds105/excercises[36m (main)[0m
+$ ls
+[?2004lgenerate_fake_data.py
+session_output.txt
+[?2004h]0;MINGW64:/c/Users/danie/OneDrive - London School of Economics/DS105 W/ds105/excercises
+[32mdanie@Daniel [35mMINGW64 [33m~/OneDrive - London School of Economics/DS105 W/ds105/excercises[36m (main)[0m
+$ git add session_output.txt
+[?2004l[?2004h]0;MINGW64:/c/Users/danie/OneDrive - London School of Economics/DS105 W/ds105/excercises
+[32mdanie@Daniel [35mMINGW64 [33m~/OneDrive - London School of Economics/DS105 W/ds105/excercises[36m (main)[0m
+$ git commit session [K_output.txt -m "adding full comand and [K[K[K[K[K[K[K[Kmand and output hisot[K[Ktory"
+[?2004l
