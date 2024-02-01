@@ -9,4 +9,14 @@ $ git add session_output.txt
 [?2004l[?2004h]0;MINGW64:/c/Users/danie/OneDrive - London School of Economics/DS105 W/ds105/excercises
 [32mdanie@Daniel [35mMINGW64 [33m~/OneDrive - London School of Economics/DS105 W/ds105/excercises[36m (main)[0m
 $ git commit session [K_output.txt -m "adding full comand and [K[K[K[K[K[K[K[Kmand and output hisot[K[Ktory"
-[?2004l
+[?2004l[main 4cc6a98] adding full command and output history
+ 1 file changed, 12 insertions(+)
+ create mode 100644 excercises/session_output.txt
+[?2004h]0;MINGW64:/c/Users/danie/OneDrive - London School of Economics/DS105 W/ds105/excercises
+[32mdanie@Daniel [35mMINGW64 [33m~/OneDrive - London School of Economics/DS105 W/ds105/excercises[36m (main)[0m
+$ git push
+[?2004lTo github.com:danielhalm1407/ds105.git
+   ee5afad..4cc6a98  main -> main
+[?2004h]0;MINGW64:/c/Users/danie/OneDrive - London School of Economics/DS105 W/ds105/excercises
+[32mdanie@Daniel [35mMINGW64 [33m~/OneDrive - London School of Economics/DS105 W/ds105/excercises[36m (main)[0m
+$ 
